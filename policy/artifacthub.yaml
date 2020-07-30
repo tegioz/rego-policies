@@ -43,3 +43,5 @@ maintainers:
     email: garethahealy@redhat.com
 provider:
   name: Red Hat
+ignore:
+  - lib
